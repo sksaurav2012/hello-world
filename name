@@ -1,5 +1,0 @@
-<script language="VBscript">
-dim a
-a=inputbox("enter your name")
-document.write(a)
-</script>
